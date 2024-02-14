@@ -1,2 +1,2 @@
-# Hello-World
+# New Update
 This repository is for practising the GitHub Flow.
